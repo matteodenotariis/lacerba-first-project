@@ -16,5 +16,7 @@ let myInterface: MyInterface = {
     myString: "The Gentlemen",
 };
 
+//cneifn
+
 console.log("My number is ", myInterface.myNumber);
 console.log("My string is ", myInterface.myString);
