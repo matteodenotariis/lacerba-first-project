@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "Matteo",
-  "license": "ISC"
+  "license": "ISC", 
+  "repository": {
+    "url": "https://github.com/matteodenotariis/lacerba-first-project"
+  }
 }
